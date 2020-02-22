@@ -1,15 +1,13 @@
-恢弘天气
-[![Build Status](https://travis-ci.org/xcc3641/SeeWeather.svg?branch=master)](https://travis-ci.org/xcc3641/SeeWeather)
-
+# 恢弘天气
 看天气应用就一个单纯、简单的看天气软件。是由我们软件工程第六小组参考网络资源联合开发的。
 
-简介
+## 简介
 恢弘天气——是一款界面友好的只看天气的APP。
 - 卡片展现（当前天气情况，未来几小时天气情况，生活建议，一周七天概况）
 - 缓存数据，减少网络请求，保证离线查看
 - 内置两套图标（设置里更改）
 
-权限说明
+## 权限说明
 
 ```xml
 	<!--用于进行网络定位-->
@@ -29,8 +27,9 @@
 	<!--写入扩展存储，向扩展卡写入数据，用于写入缓存定位数据-->
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+```
 
-TODO
+## 功能部件
 - 桌面小部件
 - 通知栏提醒
 - 更好，更多的天气ICONS
@@ -39,13 +38,13 @@ TODO
 - 自由定制的Item界面
 - 引导页面
 
-项目
+## 项目相关
 公开 API
 天气数据来源于：和风天气
 城市信息来源于：CSDN
 地理定位服务： 高德地图
 
-截图
+## 截图
 
 
-感谢
+## 感谢

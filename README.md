@@ -45,6 +45,6 @@
 - 地理定位服务： 高德地图
 
 ## 截图
-
+![Image text](images/welcome.png)
 
 ## 感谢

@@ -45,6 +45,7 @@
 - 地理定位服务： 高德地图
 
 ## 截图
-![Image text](images/welcome.png)
+![Image text](images/welcome.png) ![Image text](images/main.png) ![Image text](images/advicer.png) ![Image text](images/add.png)
+![Image text](images/addprovince.png) ![Image text](images/addcity.png) ![Image text](images/addsuccess.png) ![Image text](images/background.png)
 
 ## 感谢
